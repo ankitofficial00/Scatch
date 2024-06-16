@@ -1,0 +1,15 @@
+{
+  "name": "scatch",
+  "version": "1.0.0",
+  "description": "a premium bag shop",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "author": "ankit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  }
+}
